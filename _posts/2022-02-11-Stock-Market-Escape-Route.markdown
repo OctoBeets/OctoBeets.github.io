@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stock Market Escape Pod"
+title:  "Stock Market Escape Route"
 date:   2022-02-11 14:50:21 -0500
 categories: Philosophy
 ---
