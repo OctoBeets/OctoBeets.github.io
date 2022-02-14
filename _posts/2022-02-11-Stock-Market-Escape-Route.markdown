@@ -2,7 +2,7 @@
 layout: post
 title:  "Stock Market Escape Route"
 date:   2022-02-11 14:50:21 -0500
-categories: Philosophy
+categories: philosophy
 ---
 
 If you ever see a group of boys in a group all on their phones, there are two things they are looking at. They are either comparing fantasy football lineups, or trading stocks. These two hobbies have a lot in common. Fantasy football enthusiasts are some of the most complex statisticians out there. They are chasing a prize pool at the end of the season. Investors are right there with them, chasing returns that exceed the market indices. The hobby of fantasy football aside, why is it that young men seem to be drawn to numbers, bets, and money? 
