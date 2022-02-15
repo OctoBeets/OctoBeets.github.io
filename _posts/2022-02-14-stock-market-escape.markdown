@@ -1,17 +1,15 @@
-<<<<<<< HEAD:_posts/2022-02-14-stock-market-escape.markdown
+---
+layout: post
+title:  "Stock Market Escape"
+date:   2022-02-09 14:50:21 -0500
+categories: Philosophy
+---
 If you ever see a group of boys in a group all on their phones, there are two things they are looking at. They are either comparing fantasy football lineups, or trading stocks. These two hobbies have a lot in common. Fantasy football enthusiasts are some of the most complex statisticians out there. They are chasing a prize pool at the end of the season. Investors are right there with them, chasing returns that exceed the market indices. The hobby of fantasy football aside, why is it that young men seem to be drawn to numbers, bets, and money?
 
 This question can be blown up to a much larger macro-scale: What is our purpose as young men – particularly the young men studying business?
 Business schools will teach you how to complete a task – how do I use the VLOOKUP function, create a financial report, what column does this expense go in? In the end, we become qualified for middle management. Middle management is not the dream of any self-starter, any entrepreneur, or dreamer. We are programmed to build, to lead, and to explore, and yet are churned out as task performers.
+
 Truly, the very nature of men has been suppressed, sacrificed in exchange for a $70,000 salary. How do men react to this? The institutions of business do not change for the few who reject this lifestyle, so those men have found a way out.
-=======
----
-layout: post
-title:  "Stock Market Escape Route"
-date:   2022-02-11 14:50:21 -0500
-categories: philosophy
----
->>>>>>> db3bcd970ab0dbf9f56d237957ee6afe9c685314:_posts/2022-02-11-stock-market-escape-route.markdown
 
 I stated that groups of men crowded around a phone are most likely either comparing fantasy football lineups, or stock portfolios. The platform, or even category, of virtual “competition”, virtual “work”, virtual “escape routes”, do not matter. What matters is that they are, at the core, escape routes.
 
